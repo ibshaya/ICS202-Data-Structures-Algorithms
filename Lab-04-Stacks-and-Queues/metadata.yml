@@ -1,0 +1,12 @@
+---
+:id: 231745197
+:submitters:
+- :name: IBRAHIM ALSHAYEA
+  :email: s202176470@kfupm.edu.sa
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-02-17 13:40:25.182547000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-02-17 05:40:25.182547000 Z
+:status: processed
+:score: 9.5

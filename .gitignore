@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# IDE configurations
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+
+# Build outputs
+bin/
+build/
+target/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Metadata files (keeping metadata.yml in repo)
+!metadata.yml
